@@ -1,3 +1,5 @@
+/* Questino 1 css */
+
 .container{
     width: 400px;
     height: 400px;
@@ -14,10 +16,32 @@
     width: 100px;
     height: 100px;
     background-color: rgb(193, 184, 184);
-    font-size: xx-large;
+    font-size: 50px;
     font-weight: bold;
     border: 2px solid black;
     border-radius: 10px;
     margin: 1px;
    text-align: center;
+}
+
+/* Questino 2 css */
+
+.container2{
+    width: 900px;
+    height: 50px;
+    margin-top: 50px;
+    border: 2px solid rgb(23, 211, 225);
+    border-radius: 10px;
+    display: flex;
+    background-color: pink;
+    align-items: center;
+    
+}
+
+.nav{
+    height: 50px;
+    width: 80px;
+font-size: 24px;
+padding:10px;
+
 }
